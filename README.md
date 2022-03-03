@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 😀
+## Bem vindo ao meu perfil 😀
 
 Me chamo Rodrigo, sou analista e desenvolvedor .Net C# Full Stack Junior, oficial do exército, apaixonado por tecnologia e desenvolvimento. Uma pessoa extrovertida, com bom relacionamento interpessoal, tenho como base a hierarquia e disciplina, honrando sempre com meus compromissos e o que me for designado. Sou movido por novos desafios e tenho a necessidade de estar em constante aprendizado, me aprofundando em assuntos já conhecidos ou iniciando em assuntos novos.
 
