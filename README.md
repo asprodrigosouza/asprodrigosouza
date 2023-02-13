@@ -51,6 +51,7 @@ Me chamo Rodrigo, sou analista e desenvolvedor .Net C# Full Stack Junior, oficia
 </tbody>
 </table>
 
+</br>
 <!-- REDES SOCIAIS -->
 <div align="center">  
  <!-- <a href="https://instagram.com/asprodrigosouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
