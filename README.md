@@ -2,7 +2,7 @@
 
 Me chamo Rodrigo, sou analista e desenvolvedor .Net C# Full Stack Junior, oficial da reserva do exército, apaixonado por tecnologia e desenvolvimento. Uma pessoa extrovertida, com bom relacionamento interpessoal, tenho como base a hierarquia e disciplina, honrando sempre com meus compromissos e o que me for designado. Sou movido por novos desafios e tenho a necessidade de estar em constante aprendizado, me aprofundando em assuntos já conhecidos ou iniciando em assuntos novos.
 
-TECNOLOGIAS 
+<u>TECNOLOGIAS</u> 
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d068121fa2b82b225f4ff0712ed7689a504eadf93391482f5806d3590ef3da89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667"><img align="center" alt="DotNet" height="30" width="40" src="https://camo.githubusercontent.com/d068121fa2b82b225f4ff0712ed7689a504eadf93391482f5806d3590ef3da89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" style="max-width: 100%;"></a>
