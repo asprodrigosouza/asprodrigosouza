@@ -57,6 +57,12 @@ Me chamo Rodrigo, sou Desenvolvedor Web .Net C# Full Stack, apaixonado por tecno
 <td>2019</td>
 <td>Prêmio</td>
 </tr>
+<tr>
+<td><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> 1º Lugar ADS CUP - SCHOOL COMMUNITY</td>
+<td>UNASP</td>
+<td>2019</td>
+<td>Prêmio</td>
+</tr>
 </tbody>
 </table>
 
