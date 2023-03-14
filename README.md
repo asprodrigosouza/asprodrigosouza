@@ -46,6 +46,7 @@ Me chamo Rodrigo, sou Desenvolvedor Web .Net C# Full Stack, apaixonado por tecno
 <td>Certificação</td>
 </tr>
 <tr>
+<td><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> 1º Lugar Hackaton - UNASP</td>
 <td><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> 2º Lugar Hackaton - I Edição HACKAPÃO</td>
 <td>UNASP</td>
 <td>2019</td>
