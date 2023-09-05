@@ -40,12 +40,30 @@ Me chamo Rodrigo, sou Desenvolvedor Web .Net C# Full Stack, apaixonado por tecno
 </thead>
 <tbody>
 <tr>
+<td><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> Prêmio Colabora - Execução Excepcional</td>
+<td>Minsait - Indra</td>
+<td>2022</td>
+<td>Prêmio</td>
+</tr>
+<tr>
+<td><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> Professional Scrum Master™ I</td>
+<td>Scrum.org</td>
+<td>2023</td>
+<td>Certificação</td>
+</tr>
+<tr>
+<td><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> Prêmio Colabora - Execução Excepcional</td>
+<td>Minsait - Indra</td>
+<td>2023</td>
+<td>Prêmio</td>
+</tr>
+<tr>
 <td><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> Scrum Fundamentals Certified - SFC™</td>
 <td>SCRUMstudy</td>
 <td>2019</td>
 <td>Certificação</td>
 </tr>
- <tr>
+<tr>
 <td><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> 1º Lugar Hackaton - UNASP - FLOOD WARNING</td>
 <td>UNASP</td>
 <td>2019</td>
