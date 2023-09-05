@@ -96,5 +96,4 @@ Me chamo Rodrigo, sou Desenvolvedor Web .Net C# Full Stack, apaixonado por tecno
 </br>
 </br>
 
-  ![](https://visitor-badge.glitch.me/badge?page_id=asprodrigosouza)
 </div>
