@@ -42,7 +42,7 @@ Me chamo Rodrigo, sou Desenvolvedor Web .Net C# Full Stack, apaixonado por tecno
 <tr>
 <td><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> Prêmio Colabora - Execução Excepcional</td>
 <td>Minsait - Indra</td>
-<td>2022</td>
+<td>2023</td>
 <td>Prêmio</td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ Me chamo Rodrigo, sou Desenvolvedor Web .Net C# Full Stack, apaixonado por tecno
 <tr>
 <td><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> Prêmio Colabora - Execução Excepcional</td>
 <td>Minsait - Indra</td>
-<td>2023</td>
+<td>2022</td>
 <td>Prêmio</td>
 </tr>
 <tr>
